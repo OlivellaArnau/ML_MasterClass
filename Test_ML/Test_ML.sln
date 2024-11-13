@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34205.153
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_ML", "Test_ML.csproj", "{B96AD016-02F3-4652-8A5B-F2E914EFA67C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirstMLModel_ConsoleApp1", "..\MyFirstMLModel_ConsoleApp1\MyFirstMLModel_ConsoleApp1.csproj", "{568BB4F0-61BF-4DEB-B228-984D02FDDB08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B96AD016-02F3-4652-8A5B-F2E914EFA67C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96AD016-02F3-4652-8A5B-F2E914EFA67C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96AD016-02F3-4652-8A5B-F2E914EFA67C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96AD016-02F3-4652-8A5B-F2E914EFA67C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{568BB4F0-61BF-4DEB-B228-984D02FDDB08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568BB4F0-61BF-4DEB-B228-984D02FDDB08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568BB4F0-61BF-4DEB-B228-984D02FDDB08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568BB4F0-61BF-4DEB-B228-984D02FDDB08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F874047-BAFB-44FC-9687-6D3223FD3135}
+	EndGlobalSection
+EndGlobal
